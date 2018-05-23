@@ -1,0 +1,9 @@
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\bin\Debug\netcoreapp1.1\PreAPI.deps.json
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\bin\Debug\netcoreapp1.1\PreAPI.runtimeconfig.json
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\bin\Debug\netcoreapp1.1\PreAPI.runtimeconfig.dev.json
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\bin\Debug\netcoreapp1.1\PreAPI.dll
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\bin\Debug\netcoreapp1.1\PreAPI.pdb
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\obj\Debug\netcoreapp1.1\PreAPI.csprojResolveAssemblyReference.cache
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\obj\Debug\netcoreapp1.1\PreAPI.AssemblyInfo.cs
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\obj\Debug\netcoreapp1.1\PreAPI.dll
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\API Test\PreAPI\PreAPI\obj\Debug\netcoreapp1.1\PreAPI.pdb
